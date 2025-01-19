@@ -1,4 +1,5 @@
-## Sangmin Song(San),1994 😄 
+## Profile
+Sangmin Song(San),1994 😃<br/>
 currently unemployed<br/>
 I'm looking forward to work as front-end, web and app developer
 ## Skills
@@ -6,7 +7,8 @@ I'm looking forward to work as front-end, web and app developer
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ## Contract
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)vooster.min@gmail.com
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br/>
+vooster.min@gmail.com
 <!--
 **ssangmmin/ssangmmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
