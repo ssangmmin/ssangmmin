@@ -1,5 +1,5 @@
 ## Profile
-Sangmin Song(San),1994 😃<br/>
+Sangmin Song,1994 😃<br/>
 currently unemployed<br/>
 I'm looking forward to work as front-end, web and app developer
 ## Skills
