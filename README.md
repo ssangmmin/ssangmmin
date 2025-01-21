@@ -7,8 +7,9 @@ looking forward to work as front-end, web and app developer
 )
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black>
 )
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white>
+)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ## Contract
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br/>
 vooster.min@gmail.com
