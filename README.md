@@ -1,7 +1,7 @@
 ## Profile
 Sangmin Song,1994 😃<br/><br/>
 currently unemployed<br/>
-looking forward to work as front-end, web and app developer
+looking forward to work as front-end, web and application developer
 ## Skills
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black>
 )
